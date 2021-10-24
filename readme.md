@@ -1,0 +1,2 @@
+In this project ill try my newly obtained skills in basic html
+ill try to put in use basic knowlage about working with git, github, operaiting in xbuntu via terminal, and my first basic knowlage in html coding
