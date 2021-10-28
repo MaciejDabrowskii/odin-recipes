@@ -1,0 +1,38 @@
+.lista {
+    background-color: rgb(238, 129, 238);
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.title {
+    color: red;
+    text-align: center;
+    background-color: yellow;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+
+div {
+    background-color: lightblue;
+    text-align: center;
+    font-size: large;
+}
+
+div .listaa {
+    font-size: medium;
+    background-color: lightcoral;
+}
+
+div .steps {
+    background-color: lightpink;
+    text-align: left;
+}
+
+div .descr {
+    background-color: salmon;
+}
